@@ -3,7 +3,8 @@
 #include <iostream>
 using namespace std;
 
-class Queue{
+class Queue
+{
     private:
         int arr2[5];
         int Front;
