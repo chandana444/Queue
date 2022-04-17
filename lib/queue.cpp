@@ -3,7 +3,8 @@
 using namespace std;
 
 
-    Queue::Queue(){
+    Queue::Queue()
+    {
     Front=-1;
     rear=-1;
     for(int i=0;i<5;i++){
